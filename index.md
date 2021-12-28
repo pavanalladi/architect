@@ -10,17 +10,22 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# A B O U T  M E
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+An accomplished IT Professional with an overall experience of 11 years in Architecting, Designing and Managing solutions on cloud and is skilled in providing Security solutions and DevOps Automations
 
-## Header 2
+## PROFESSIONAL SUMMARY
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> Architecting and Designing solutions on Cloud
+> Security on AWS - Implement a strong identity foundation, enable traceability, apply security at all layers, automate security best practices, protect data in transit and at rest, keep people away from data and prepare for security events
+> Contributing towards Organizational Partnerships programs
+> Design, Publish and Build Landing Zone Solutions as Market Place Offerings
+> Expertise on AWS cloud services such as computing service, networking service, application service, storage and content delivery service, database service, management service, security and identity service
+> Define Migration Strategies and perform seamless migration of infrastructure to cloud
+> Design and implement infrastructure as a code using Cloud Formation and Terraform
+> Setting up CI/CD platforms and Develop Automations
 
-### Header 3
+### EXPERIENCE
 
 ```js
 // Javascript code with syntax highlighting.
